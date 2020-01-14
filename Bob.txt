@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Hi!! I'm Bob. I'm new here.
-=======
-Hi!! I'm Bob. I'm new here.
->>>>>>> f2bb8837204c02488f2b89d8be5d4707df9e09a9
